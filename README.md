@@ -6,7 +6,7 @@ test repository created for student John Britton
 * one
 * two
 
-__adding a new feature__
+__adding two new features__
 
 * three
 * four
